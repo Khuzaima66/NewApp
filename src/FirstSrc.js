@@ -29,6 +29,8 @@ const FirstSrc = () => {
     <View style={{ marginHorizontal: 30, marginVertical: 30, }}>
     <Text style={{ color: 'green', fontSize: 50 }}>Google </Text>
     <Text style={{ color: 'darkgreen', fontSize: 50, marginBottom: 20 }}>Map</Text>
+    <Text style={{ color: 'darkgreen', fontSize: 50, marginBottom: 20 }}>Map 2</Text>
+
     <Icon name= 'google' size={30}/>
     </View>
 
